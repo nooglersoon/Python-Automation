@@ -6,7 +6,7 @@ This repository is my library for data analysis tool using Python. Enjoy!
 
 <a href="https://github.com/nooglersoon/Python-Automation/blob/main/spider_chart.py"> Spider Chart Automation </a>
 <br>
-Hello, this is my first automation script using python. If you are wanted to create some spider chart in a huge amount (lot of data) at once with csv, you are in the right place! Grab and go! :D
+Hello, this is my first automation script using python. If you are wanted to create some spider chart in a huge amount (lot of data) at once with csv, you are in the right place! Grab and go! 😁
 
 ## 2. Geocoding with Here API
 
