@@ -17,6 +17,6 @@ All the script is written in python 3. Enjoy! 🔥
 
 ## 3. GeoJSON Parsing
 
-<a href="https://github.com/nooglersoon/Python-Automation/blob/main/geoJSON-Parsing.py"> GeoJSON Parsing </a>
+<a href="https://github.com/nooglersoon/Python-Automation/blob/main/geojson_parsing.py"> GeoJSON Parsing </a>
 <br>
 Based on my experience as spatial data analyst, I hard to find a good example of json parsing method with python, especially converted directly to spatial data format like shapefile or GeoJSON. I tried to create my own script and worked very well. Go clone and try it on your Jupyter notebook 😋
